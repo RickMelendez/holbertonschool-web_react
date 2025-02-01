@@ -21,3 +21,4 @@ function sumMinorCredits(subject1: MinorCredits, subject2: MinorCredits): MinorC
         brand: subject1.brand // Assuming brand is the same for both subjects
     };
 }
+.

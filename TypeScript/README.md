@@ -6,5 +6,5 @@ This project demonstrates the use of TypeScript to create an interface for stude
 
 - TypeScript interface for students
 - Vanilla JavaScript for DOM manipulation
-- Webpack for bundling
+- Webpack for bundling.
 

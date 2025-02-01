@@ -17,3 +17,4 @@ export function updateRow(newRowID: number, updatedRow: RowElement) {
 export function insertRow(row: RowElement): number {
     throw new Error('Function not implemented.');
 }
+''
