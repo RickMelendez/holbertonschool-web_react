@@ -52,4 +52,3 @@ function renderTable(students: Student[]): void {
 
 // Call the function to render the table
 renderTable(studentsList);
-/

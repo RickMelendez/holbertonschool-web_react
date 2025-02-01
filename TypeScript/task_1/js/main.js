@@ -42,4 +42,3 @@ var Student = /** @class */ (function () {
 // Example usage
 var teacher1 = createTeacher("Alice", "Johnson", true, "San Francisco", 5, { contract: true, department: "Math" });
 var director1 = createDirector("Sarah", "Williams", true, "Los Angeles", 10, 8, { contract: true, division: "Education" });
-.

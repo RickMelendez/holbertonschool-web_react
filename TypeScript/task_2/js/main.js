@@ -37,4 +37,3 @@ function createEmployee(salary) {
         return new Director(); // Return a new Director otherwise
     }
 }
-.

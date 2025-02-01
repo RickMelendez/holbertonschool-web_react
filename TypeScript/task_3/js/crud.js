@@ -13,4 +13,3 @@ export function insertRow(row) {
   
     return rowId;
   }
-.

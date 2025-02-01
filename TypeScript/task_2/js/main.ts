@@ -50,4 +50,3 @@ function createEmployee(salary: number | string): Teacher | Director {
         return new Director(); // Return a new Director otherwise
     }
 }
-.

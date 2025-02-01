@@ -7,4 +7,3 @@ export interface RowElement {
     lastName: string;
     age?: number;
 }
-.

@@ -19,4 +19,3 @@ CRUD.updateRow(newRowID, updatedRow);
 
 // Delete the row
 CRUD.deleteRow(newRowID);
-.
